@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ferrarirosso (ferrari fan :-))
 - 👀 I’m interested in software development on Microsoft technologies
-- 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on Sharepoint / Azure / M365 topcis
 
 <!---
