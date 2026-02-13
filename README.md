@@ -7,7 +7,7 @@
 
 <br />
 
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/de-DE/MVP/profile/9071b626-1180-4bd9-9a16-ea1dfea7d2bb)
 [![Blog](https://img.shields.io/badge/puntobello.ch-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://puntobello.ch)
 
 </div>
