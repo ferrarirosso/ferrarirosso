@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=450&height=40&lines=Microsoft+MVP;SharePoint+%7C+Azure+%7C+SPFx;Enterprise+Solutions+Architect;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP;SharePoint+%7C+Azure+%7C+SPFx;Enterprise+Solutions+Architect;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
 </a>
 
 <br />
