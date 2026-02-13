@@ -8,7 +8,7 @@
 <br />
 
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/de-DE/MVP/profile/9071b626-1180-4bd9-9a16-ea1dfea7d2bb)
-[![Blog](https://img.shields.io/badge/puntobello.ch-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://puntobello.ch)
+[![Blog](https://img.shields.io/badge/puntobello.ch-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.puntobello.ch)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar. Currently deep into AI-powered developer tooling and automation.
+I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://www.puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar. Currently deep into AI-powered developer tooling and automation.
 
 - **Microsoft MVP** — M365 Development & SharePoint
 - **30+ years** in software development, from on-prem to cloud-native
@@ -181,7 +181,7 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nello-d-andrea)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nellodandrea.bsky.social)
-[![Blog](https://img.shields.io/badge/puntobello.ch-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://puntobello.ch)
+[![Blog](https://img.shields.io/badge/puntobello.ch-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.puntobello.ch)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nello@dandrea.ch)
 
 </div>
