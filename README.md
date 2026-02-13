@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP;SharePoint+%7C+Azure+%7C+SPFx;Enterprise+Solutions+Architect;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
 </a>
 
 <br />
@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm **Nello D'Andrea**, a Microsoft MVP working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. I design and build enterprise solutions on Microsoft 365, SharePoint, and Azure — and I'm the creator of [PuntoBello](https://puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar. Currently deep into AI-powered developer tooling and automation.
+I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar. Currently deep into AI-powered developer tooling and automation.
 
-- **Microsoft MVP** — recognized for contributions to the Microsoft 365 & SharePoint community
+- **Microsoft MVP** — M365 Development & SharePoint
 - **30+ years** in software development, from on-prem to cloud-native
 - **PANTOUM** creator — enterprise-grade SPFx upgrade automation with AI-powered error resolution ([Documentation](https://pantoum-spfx.github.io/pantoum/))
 - **PnP community contributor** — active in CLI for Microsoft 365, SPFx controls, web parts, and more
@@ -108,32 +108,11 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 ### Developer Tools, Samples & Fun
 
-<div align="center">
-
-<a href="https://github.com/ferrarirosso/spfx-env-config-heft">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=spfx-env-config-heft&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=spfx-env-config-heft&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=spfx-env-config-heft&theme=default&hide_border=true" alt="spfx-env-config-heft" />
-  </picture>
-</a>
-<a href="https://github.com/ferrarirosso/retro365games">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=retro365games&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=retro365games&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=retro365games&theme=default&hide_border=true" alt="retro365games" />
-  </picture>
-</a>
-
-<a href="https://github.com/ferrarirosso/public-samples">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=public-samples&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=public-samples&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferrarirosso&repo=public-samples&theme=default&hide_border=true" alt="public-samples" />
-  </picture>
-</a>
-
-</div>
+| Repo | Description |
+|------|-------------|
+| [spfx-env-config-heft](https://github.com/ferrarirosso/spfx-env-config-heft) | SPFx 1.22+ sample — 4 approaches to environment variables with Heft build system |
+| [retro365games](https://github.com/ferrarirosso/retro365games) | 14 retro arcade games with Christmas & Microsoft 365 themes for SharePoint |
+| [public-samples](https://github.com/ferrarirosso/public-samples) | Code samples and snippets for Microsoft 365 development |
 
 ---
 
