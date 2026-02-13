@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Microsoft+MVP+%7C+SharePoint+%7C+Azure+%7C+SPFx;Enterprise+Solutions+Architect;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP+Community" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Microsoft+MVP+%7C+SharePoint+%7C+Azure;Enterprise+Solutions+Architect;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
 </a>
 
 <br />
@@ -141,12 +141,11 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 | Project | Area |
 |---------|------|
-| [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | Commands & enhancements |
-| [SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react) | Reusable controls for SPFx |
-| [SPFx Web Parts](https://github.com/pnp/sp-dev-fx-webparts) | Community web part samples |
-| [PnP Modern Search](https://github.com/microsoft-search/pnp-modern-search) | Search-driven solutions |
-| [Viva Connections Toolkit](https://github.com/pnp/vscode-viva) | VS Code extension |
-| [Copilot Prompts](https://github.com/pnp/copilot-prompts) | Prompt engineering samples |
+| [SPFx Web Parts](https://github.com/pnp/sp-dev-fx-webparts) | 10+ merged PRs — SPFx upgrades, bug fixes, UI improvements |
+| [SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react) | Bug fixes for FileBrowser and multi-selection |
+| [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | Project parsing enhancements |
+| [PnP Modern Search](https://github.com/microsoft-search/pnp-modern-search) | Pagination deeplink feature |
+| [Copilot Prompts](https://github.com/pnp/copilot-prompts) | M365 fluency timing coach prompt |
 
 ---
 
