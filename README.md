@@ -54,7 +54,7 @@ I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, worki
 
 ### PANTOUM — AI-Powered SPFx Automation
 
-> Enterprise-grade SPFx upgrade automation with AI-powered error resolution. CLI + TUI + Claude Code plugin.
+> Enterprise-grade SPFx upgrade automation with AI-powered error resolution. CLI + Web App + Claude Code plugin.
 >
 > **[Documentation](https://pantoum-spfx.github.io/pantoum/)**
 
