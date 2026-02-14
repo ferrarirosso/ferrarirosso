@@ -190,7 +190,7 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=ferrarirosso&style=flat-square&color=0078D4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fferrarirosso%2Fferrarirosso%2F&countColor=%230078D4)
 
 *Building enterprise solutions for Microsoft 365 since the beginning.*
 
