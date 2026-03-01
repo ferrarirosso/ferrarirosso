@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+PANTOUM+%7C+PnP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+PnP+Community" alt="Typing SVG" />
 </a>
 
 <br />
@@ -16,11 +16,10 @@
 
 ## About Me
 
-I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://www.puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar. Currently deep into AI-powered developer tooling and automation.
+I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://www.puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar.
 
 - **Microsoft MVP** — M365 Development & SharePoint
 - **30+ years** in software development, from on-prem to cloud-native
-- **PANTOUM** creator — enterprise-grade SPFx upgrade automation with AI-powered error resolution ([Documentation](https://pantoum-spfx.github.io/pantoum/))
 - **PnP community contributor** — active in CLI for Microsoft 365, SPFx controls, web parts, and more
 
 ---
@@ -51,22 +50,6 @@ I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, worki
 ---
 
 ## Featured Projects
-
-### PANTOUM — AI-Powered SPFx Automation
-
-> Enterprise-grade SPFx upgrade automation with AI-powered error resolution. CLI + Web App + Claude Code plugin.
->
-> **[Documentation](https://pantoum-spfx.github.io/pantoum/)**
-
-<!-- Once pantoum-public is published under pantoum-spfx org, add a pin card here:
-<a href="https://github.com/pantoum-spfx/pantoum-public">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pantoum-spfx&repo=pantoum-public&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pantoum-spfx&repo=pantoum-public&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pantoum-spfx&repo=pantoum-public&theme=default&hide_border=true" alt="pantoum-public" />
-  </picture>
-</a>
--->
 
 ### PuntoBello Suite
 
