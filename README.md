@@ -55,39 +55,12 @@ I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, worki
 
 Production-grade, multilingual SPFx solutions published under [Die Mobiliar](https://github.com/diemobiliar).
 
-<div align="center">
-
-<a href="https://github.com/diemobiliar/puntobello-realtimenews">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-realtimenews&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-realtimenews&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-realtimenews&theme=default&hide_border=true" alt="puntobello-realtimenews" />
-  </picture>
-</a>
-<a href="https://github.com/diemobiliar/puntobello-userapps">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-userapps&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-userapps&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-userapps&theme=default&hide_border=true" alt="puntobello-userapps" />
-  </picture>
-</a>
-
-<a href="https://github.com/diemobiliar/puntobello-anchor">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-anchor&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-anchor&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-anchor&theme=default&hide_border=true" alt="puntobello-anchor" />
-  </picture>
-</a>
-<a href="https://github.com/diemobiliar/puntobello-multilingualdocument">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-multilingualdocument&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-multilingualdocument&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemobiliar&repo=puntobello-multilingualdocument&theme=default&hide_border=true" alt="puntobello-multilingualdocument" />
-  </picture>
-</a>
-
-</div>
+| Repo | Description |
+|------|-------------|
+| [puntobello-realtimenews](https://github.com/diemobiliar/puntobello-realtimenews) | SPFx solutions for realtime news |
+| [puntobello-userapps](https://github.com/diemobiliar/puntobello-userapps) | SPFx solutions for user apps |
+| [puntobello-anchor](https://github.com/diemobiliar/puntobello-anchor) | SPFx solutions for in-page navigation |
+| [puntobello-multilingualdocument](https://github.com/diemobiliar/puntobello-multilingualdocument) | SPFx solutions for multilingual documents |
 
 ### Developer Tools, Samples & Fun
 
