@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+PnP+Community" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+GriMoire+%7C+PnP+Community" alt="Typing SVG" />
 </a>
 
 <br />
@@ -68,7 +68,15 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 |------|-------------|
 | [spfx-env-config-heft](https://github.com/ferrarirosso/spfx-env-config-heft) | SPFx 1.22+ sample — 4 approaches to environment variables with Heft build system |
 | [retro365games](https://github.com/ferrarirosso/retro365games) | 14 retro arcade games with Christmas & Microsoft 365 themes for SharePoint |
+| [mcp365-explorer](https://github.com/ferrarirosso/mcp365-explorer) | SPFx webparts for exploring Microsoft 365 MCP servers (Agents 365 Tools) |
+| [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) | SPFx webpart to explore and test the M365 Copilot Retrieval, Search, and Chat APIs |
 | [public-samples](https://github.com/ferrarirosso/public-samples) | Code samples and snippets for Microsoft 365 development |
+
+### GriMoire — AI Assistant for Microsoft 365
+
+> Hackathon submission — AI assistant with voice/text interaction, visual blocks, and MCP integration for Microsoft 365.
+>
+> **[GitHub Org](https://github.com/grimoire-hie)** · **[Documentation](https://grimoire-hie.github.io/)**
 
 ---
 
@@ -90,9 +98,9 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 <a href="https://github.com/ferrarirosso">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&height=180" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&height=180" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&theme=github_dark&height=180" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&theme=default&height=180" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferrarirosso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&theme=default" alt="GitHub Stats" />
   </picture>
 </a>
 <a href="https://github.com/ferrarirosso">
