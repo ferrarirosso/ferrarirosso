@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ferrarirosso">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;Passionate+Developer+%7C+30%2B+Years;AI-Powered+Developer+Tooling;PuntoBello+%7C+GriMoire+%7C+PnP+Community" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&repeat=true&width=600&height=40&lines=MCP+365+Series+%7C+PANTOUM+%7C+Open-Source+SPFx;Microsoft+MVP+%7C+M365+Dev+%7C+SharePoint;AI-Powered+Developer+Tooling+%7C+30%2B+Years;puntobello.ch+%7C+PnP+Community" alt="Typing SVG" />
 </a>
 
 <br />
@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, working at [Die Mobiliar](https://www.mobiliar.ch) in Bern, Switzerland. Passionate developer building solutions on Microsoft 365 and SharePoint — and creator of [PuntoBello](https://www.puntobello.ch), a suite of production-grade SPFx solutions published under Die Mobiliar.
+I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint. I ship open-source tooling for the Microsoft 365 ecosystem — the **[MCP 365 series](https://github.com/ferrarirosso/mcp365-explorer)** of SPFx webparts for exploring Microsoft 365 MCP servers, **[PANTOUM](https://github.com/pantoum-spfx/pantoum)** for AI-powered SPFx upgrade automation, and a growing body of personal SPFx samples. Based in Bern, Switzerland; day job at [Die Mobiliar](https://www.mobiliar.ch).
 
 - **Microsoft MVP** — M365 Development & SharePoint
 - **30+ years** in software development, from on-prem to cloud-native
-- **PnP community contributor** — active in CLI for Microsoft 365, SPFx controls, web parts, and more
+- **Personal open source** — MCP 365 series, PANTOUM, SPFx samples, PnP community contributions
 
 ---
 
@@ -51,32 +51,44 @@ I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint, worki
 
 ## Featured Projects
 
-### PuntoBello Suite
+### MCP 365 Series
 
-Production-grade, multilingual SPFx solutions published under [Die Mobiliar](https://github.com/diemobiliar).
+Open-source SPFx webparts exploring Microsoft 365 MCP servers (Agents 365 Tools) — the scaffold behind the [GriMoire](https://grimoire-hie.github.io/) hackathon submission. Each webpart targets a specific MCP server; the set lives in [mcp365-explorer](https://github.com/ferrarirosso/mcp365-explorer).
 
-| Repo | Description |
-|------|-------------|
-| [puntobello-realtimenews](https://github.com/diemobiliar/puntobello-realtimenews) | SPFx solutions for realtime news |
-| [puntobello-userapps](https://github.com/diemobiliar/puntobello-userapps) | SPFx solutions for user apps |
-| [puntobello-anchor](https://github.com/diemobiliar/puntobello-anchor) | SPFx solutions for in-page navigation |
-| [puntobello-multilingualdocument](https://github.com/diemobiliar/puntobello-multilingualdocument) | SPFx solutions for multilingual documents |
+| Webpart | Covers |
+|---------|--------|
+| [mcp365-calendar](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-calendar) | Calendar MCP server |
+| [mcp365-mail](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-mail) | Mail MCP server |
+| [mcp365-onedrive](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-onedrive) | OneDrive MCP server |
+| [mcp365-sharepoint-lists](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-sharepoint-lists) | SharePoint Lists MCP server |
+| [mcp365-teams](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-teams) | Teams MCP server |
+| [mcp365-user-profile](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-user-profile) | User Profile MCP server |
 
-### Developer Tools, Samples & Fun
+Companion repo: [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) — SPFx webpart for exploring and testing the M365 Copilot Retrieval, Search, and Chat APIs.
+
+**Coming next:**
+- One more MCP server webpart to round out the explorer set
+- A redesigned MCP technical-interaction layer, likely shipped as an npm package
+- End-to-end demos wiring MCP directly into a webpart with an LLM
+- A UI redesign pass once the interaction layer stabilizes
+
+### PANTOUM — AI-Powered SPFx Upgrade Automation
+
+> Enterprise-grade SPFx upgrade automation with deterministic patches and AI-assisted error recovery.
+>
+> **[GitHub Org](https://github.com/pantoum-spfx)** · **[Documentation](https://pantoum-spfx.github.io/pantoum/)**
+
+### Personal SPFx Tools & Samples
 
 | Repo | Description |
 |------|-------------|
 | [spfx-env-config-heft](https://github.com/ferrarirosso/spfx-env-config-heft) | SPFx 1.22+ sample — 4 approaches to environment variables with Heft build system |
 | [retro365games](https://github.com/ferrarirosso/retro365games) | 14 retro arcade games with Christmas & Microsoft 365 themes for SharePoint |
-| [mcp365-explorer](https://github.com/ferrarirosso/mcp365-explorer) | SPFx webparts for exploring Microsoft 365 MCP servers (Agents 365 Tools) |
-| [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) | SPFx webpart to explore and test the M365 Copilot Retrieval, Search, and Chat APIs |
-| [public-samples](https://github.com/ferrarirosso/public-samples) | Code samples and snippets for Microsoft 365 development |
+| [public-samples](https://github.com/ferrarirosso/public-samples) | Code samples, snippets, and one-off SPFx experiments for Microsoft 365 development |
 
-### GriMoire — AI Assistant for Microsoft 365
+### Die Mobiliar Work
 
-> Hackathon submission — AI assistant with voice/text interaction, visual blocks, and MCP integration for Microsoft 365.
->
-> **[GitHub Org](https://github.com/grimoire-hie)** · **[Documentation](https://grimoire-hie.github.io/)**
+Production SPFx suite at Die Mobiliar — the PuntoBello suite at [github.com/diemobiliar](https://github.com/diemobiliar) (`puntobello-realtimenews`, `puntobello-userapps`, `puntobello-anchor`, `puntobello-multilingualdocument`).
 
 ---
 
@@ -89,6 +101,15 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 | [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | Project parsing enhancements |
 | [PnP Modern Search](https://github.com/microsoft-search/pnp-modern-search) | Pagination deeplink feature |
 | [Copilot Prompts](https://github.com/pnp/copilot-prompts) | M365 fluency timing coach prompt |
+
+---
+
+## From the Blog
+
+Latest posts from [puntobello.ch](https://www.puntobello.ch):
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -156,6 +177,6 @@ Production-grade, multilingual SPFx solutions published under [Die Mobiliar](htt
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fferrarirosso%2Fferrarirosso%2F&countColor=%230078D4)
 
-*Building enterprise solutions for Microsoft 365 since the beginning.*
+*Open-source tooling for Microsoft 365 — MCP 365, PANTOUM, and beyond.*
 
 </div>
