@@ -21,6 +21,6 @@ jobs:
         with:
           feed_list: "https://www.puntobello.ch/en/index.xml"
           max_post_count: 3
-          template: "- [$title]($url) — $date"
+          template: "$newLine- [$title]($url) — $date"
           date_format: "mmm d, yyyy"
           commit_message: "chore: update latest blog posts"

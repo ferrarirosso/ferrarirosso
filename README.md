@@ -104,7 +104,11 @@ Production SPFx suite at Die Mobiliar — the PuntoBello suite at [github.com/di
 
 Latest posts from [puntobello.ch](https://www.puntobello.ch):
 
-<!-- BLOG-POST-LIST:START -->- [MCP365 Explorer — Work IQ OneDrive: browse, search, and manage personal files](https://www.puntobello.ch/en/nello/mcp365_explorer_onedrive/) — Apr 12, 2026- [Introducing PANTOUM — automated SPFx upgrades, inside guardrails](https://www.puntobello.ch/en/nello/pantoum_no_more_manual_spfx_upgrades/) — Apr 9, 2026- [MCP365 Explorer — Work IQ Teams: teams, channels, and messages](https://www.puntobello.ch/en/nello/mcp365_explorer_teams/) — Apr 2, 2026<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [MCP365 Explorer — Work IQ OneDrive: browse, search, and manage personal files](https://www.puntobello.ch/en/nello/mcp365_explorer_onedrive/) — Apr 12, 2026
+- [Introducing PANTOUM — automated SPFx upgrades, inside guardrails](https://www.puntobello.ch/en/nello/pantoum_no_more_manual_spfx_upgrades/) — Apr 9, 2026
+- [MCP365 Explorer — Work IQ Teams: teams, channels, and messages](https://www.puntobello.ch/en/nello/mcp365_explorer_teams/) — Apr 2, 2026
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
