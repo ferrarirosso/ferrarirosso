@@ -66,11 +66,7 @@ Open-source SPFx webparts exploring Microsoft 365 MCP servers (Agents 365 Tools)
 
 Companion repo: [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) — SPFx webpart for exploring and testing the M365 Copilot Retrieval, Search, and Chat APIs.
 
-**Coming next:**
-- One more MCP server webpart to round out the explorer set
-- A redesigned MCP technical-interaction layer, likely shipped as an npm package
-- End-to-end demos wiring MCP directly into a webpart with an LLM
-- A UI redesign pass once the interaction layer stabilizes
+Actively pushing this series forward — more coming.
 
 ### PANTOUM — AI-Powered SPFx Upgrade Automation
 
