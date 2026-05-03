@@ -53,20 +53,28 @@ I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint. I shi
 
 ### MCP 365 Series
 
-Open-source SPFx webparts exploring Microsoft 365 MCP servers (Agents 365 Tools) — the scaffold behind the [GriMoire](https://grimoire-hie.github.io/) hackathon submission. Each webpart targets a specific MCP server; the set lives in [mcp365-explorer](https://github.com/ferrarirosso/mcp365-explorer).
+Open-source SPFx webparts exploring Microsoft 365 MCP servers (Agents 365 Tools) — the scaffold behind the [GriMoire](https://grimoire-hie.github.io/) hackathon submission. Two patterns: per-server *explorers* that call MCP directly from the browser, and *agentic* webparts that put an LLM behind the same calls. Everything lives in [mcp365-explorer](https://github.com/ferrarirosso/mcp365-explorer).
+
+**Explorers — direct browser → MCP, no LLM:**
 
 | Webpart | Covers |
 |---------|--------|
+| [mcp365-user-profile](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-user-profile) | User Profile MCP server |
+| [mcp365-sharepoint-lists](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-sharepoint-lists) | SharePoint Lists MCP server |
 | [mcp365-calendar](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-calendar) | Calendar MCP server |
 | [mcp365-mail](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-mail) | Mail MCP server |
-| [mcp365-onedrive](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-onedrive) | OneDrive MCP server |
-| [mcp365-sharepoint-lists](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-sharepoint-lists) | SharePoint Lists MCP server |
 | [mcp365-teams](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-teams) | Teams MCP server |
-| [mcp365-user-profile](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-user-profile) | User Profile MCP server |
+| [mcp365-onedrive](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-onedrive) | OneDrive MCP server |
+| [mcp365-word](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-word) | Word MCP server |
+
+**Agentic — LLM behind the calls, via Microsoft Foundry:**
+
+| Webpart | Covers |
+|---------|--------|
+| [mcp365-foundry-chat](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-foundry-chat) | Microsoft Foundry chat through a hardened proxy — the auth-chain canary |
+| [mcp365-lists-chat](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-lists-chat) | LLM tool-calling against the SharePoint Lists MCP server |
 
 Companion repo: [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) — SPFx webpart for exploring and testing the M365 Copilot Retrieval, Search, and Chat APIs.
-
-Actively pushing this series forward — more coming.
 
 ### PANTOUM — AI-Powered SPFx Upgrade Automation
 
