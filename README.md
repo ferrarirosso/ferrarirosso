@@ -73,6 +73,7 @@ Open-source SPFx webparts exploring Microsoft 365 MCP servers (Agents 365 Tools)
 |---------|--------|
 | [mcp365-foundry-chat](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-foundry-chat) | Microsoft Foundry chat through a hardened proxy — the auth-chain canary |
 | [mcp365-lists-chat](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-lists-chat) | LLM tool-calling against the SharePoint Lists MCP server |
+| [mcp365-word-review](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-word-review) | LLM-driven Word document review through the Word MCP server |
 
 Companion repo: [react-copilot-apis](https://github.com/ferrarirosso/react-copilot-apis) — SPFx webpart for exploring and testing the M365 Copilot Retrieval, Search, and Chat APIs.
 
@@ -118,6 +119,7 @@ Production SPFx suite at Die Mobiliar — the PuntoBello suite at [github.com/di
 
 Latest posts from [puntobello.ch](https://www.puntobello.ch):
 
+- [MCP365 Explorer — Read, reason, annotate: chat-driven Word document review via MCP](https://www.puntobello.ch/en/nello/mcp365_explorer_word_review/) — May 11, 2026
 - [MCP365 Explorer — From buttons to language: chat with the SharePoint Lists MCP server](https://www.puntobello.ch/en/nello/mcp365_explorer_lists_chat/) — May 3, 2026
 - [MCP365 Explorer — a hardened SPFx → Microsoft Foundry path, open-sourced](https://www.puntobello.ch/en/nello/mcp365_explorer_foundry_proxy/) — Apr 27, 2026
 - [MCP365 Explorer — Work IQ Word: creating, reading, and annotating documents](https://www.puntobello.ch/en/nello/mcp365_explorer_word/) — Apr 19, 2026
