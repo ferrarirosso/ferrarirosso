@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint. I ship open-source tooling for the Microsoft 365 ecosystem — the **[MCP 365 series](https://github.com/ferrarirosso/mcp365-explorer)** of SPFx webparts for exploring Microsoft 365 MCP servers, **[PANTOUM](https://github.com/pantoum-spfx/pantoum)** for AI-powered SPFx upgrade automation, **[spfx-foundry-deploy](https://github.com/ferrarirosso/spfx-foundry-deploy)** for wiring SPFx web parts to Microsoft Foundry without a shared secret in the browser, and a growing body of personal SPFx samples. Based in Bern, Switzerland; day job at [Die Mobiliar](https://www.mobiliar.ch).
+I'm **Nello D'Andrea**, a Microsoft MVP for M365 Development & SharePoint. I ship open-source tooling for the Microsoft 365 ecosystem — the **[MCP 365 series](https://github.com/ferrarirosso/mcp365-explorer)** of SPFx webparts for exploring Microsoft 365 MCP servers, **[PANTOUM](https://github.com/pantoum-spfx/pantoum)** for AI-powered SPFx upgrade automation, **[spfx-foundry-deploy](https://github.com/ferrarirosso/spfx-foundry-deploy)** for wiring SPFx web parts to Microsoft Foundry without a shared secret in the browser, **[react-imageo](https://github.com/ferrarirosso/react-imageo)** for page-grounded image generation in SharePoint, and a growing body of personal SPFx samples. Based in Bern, Switzerland; day job at [Die Mobiliar](https://www.mobiliar.ch).
 
 - **Microsoft MVP** — M365 Development & SharePoint
 - **30+ years** in software development, from on-prem to cloud-native
@@ -89,6 +89,12 @@ Companion repo: [react-copilot-apis](https://github.com/ferrarirosso/react-copil
 >
 > **[Repo](https://github.com/ferrarirosso/spfx-foundry-deploy)** · **[Working example: mcp365-foundry-chat](https://github.com/ferrarirosso/mcp365-explorer/tree/main/webparts/mcp365-foundry-chat)** · **[Write-up](https://www.puntobello.ch/en/nello/mcp365_explorer_foundry_proxy/)**
 
+### imageo — Page-Grounded Image Generation in SharePoint
+
+> SPFx Application Customizer that generates brand-styled images grounded in the current SharePoint page — Microsoft Foundry's MAI-Image-2-Efficient for generation, GPT-5 mini to read the page first. Copy to the clipboard or save to the Site Assets library; it never writes to the page.
+>
+> **[Repo](https://github.com/ferrarirosso/react-imageo)** · **[Write-up](https://www.puntobello.ch/en/nello/imageo_page_grounded_images/)**
+
 ### Personal SPFx Tools & Samples
 
 | Repo | Description |
@@ -119,7 +125,8 @@ Production SPFx suite at Die Mobiliar — the PuntoBello suite at [github.com/di
 
 Latest posts from [puntobello.ch](https://www.puntobello.ch):
 
-- [MCP365 Explorer — Read, reason, annotate: chat-driven Word document review via MCP](https://www.puntobello.ch/en/nello/mcp365_explorer_word_review/) — May 11, 2026
+- [imageo — generating page-grounded images in SharePoint with Microsoft Foundry's MAI-Image-2](https://www.puntobello.ch/en/nello/imageo_page_grounded_images/) — May 28, 2026
+- [MCP365 Explorer — Read, reason, annotate: chat-driven Word document review via MCP](https://www.puntobello.ch/en/nello/mcp365_explorer_word_review/) — May 18, 2026
 - [MCP365 Explorer — From buttons to language: chat with the SharePoint Lists MCP server](https://www.puntobello.ch/en/nello/mcp365_explorer_lists_chat/) — May 3, 2026
 - [MCP365 Explorer — a hardened SPFx → Microsoft Foundry path, open-sourced](https://www.puntobello.ch/en/nello/mcp365_explorer_foundry_proxy/) — Apr 27, 2026
 - [MCP365 Explorer — Work IQ Word: creating, reading, and annotating documents](https://www.puntobello.ch/en/nello/mcp365_explorer_word/) — Apr 19, 2026
